@@ -2,7 +2,6 @@
 Small online store with some features made with using Laravel and Vue.js.
 
 ## Screenshots
-Include logo/demo screenshot etc.
 ![homepage](https://user-images.githubusercontent.com/67187338/141387522-aea8f8fe-2afa-4340-881c-78961337e8b5.png)
 ![add](https://user-images.githubusercontent.com/67187338/141387532-56cfc75d-f5fe-4313-834d-5977c3182826.png)
 ![edit](https://user-images.githubusercontent.com/67187338/141387535-02690fc4-484c-4f0e-b522-0c06f725dd9c.png)
