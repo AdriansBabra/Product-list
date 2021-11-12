@@ -8,7 +8,7 @@ Small online store with some features made with using Laravel and Vue.js.
 ![cart](https://user-images.githubusercontent.com/67187338/141387539-d65fb322-c1f1-4932-8608-3f13e2515008.png)
 
 
-## Prerequistes
+## Prerequisites
 WAMP | XAMPP etc.
 
 Node Package Manager
